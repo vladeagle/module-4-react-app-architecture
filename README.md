@@ -2,4 +2,4 @@
 
 1. Все перевести на Vite.
 2. Использовать одну из дизайн систем, что мы рассмотрели.
-3. Переделать приложение, используя архитектуры из видео, или используя React Architecture Patterns или Feature-Sliced Design.
+3. Переделать приложение, используя архитектуры из видео или React Architecture Patterns / Feature-Sliced Design.
